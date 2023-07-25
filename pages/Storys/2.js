@@ -8,7 +8,7 @@ import mock4 from '../../public/images/screenshots/5-5/freitag.png';
 
 const Story2 = () => {
 	return (
-		<div className=' h-screen bg-blackTwo flex justify-between bg-black'>
+		<div className=' h-screen bg-blackTwo flex justify-between bg-gradient-to-b from-black via-blue-800 to-black '>
 			<div className='flex text-white flex-col justify-between'>
 				<div className=' flex justify-between h-1/3  '>
 					<span></span>
@@ -16,7 +16,7 @@ const Story2 = () => {
 						<Image src={logo} alt='Ad Designs' className='' />
 					</div>
 				</div>
-				<div className=' h-1/3  px-4 grid gap-8 shadow '>
+				<div className=' h-1/3  px-4 grid gap-8  '>
 					<div className="grid grid-cols-3  place-items-center gap-2">
 						<div className=''>
 							<Image src={mock2} alt='Ad Designs' />
