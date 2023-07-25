@@ -16,8 +16,8 @@ const Story2 = () => {
 						<Image src={logo} alt='Ad Designs' className='' />
 					</div>
 				</div>
-				<div className=' h-1/3  px-4 grid gap-8  '>
-					<div className="grid grid-cols-3  place-items-center gap-2">
+				<div className=' h-1/3  px-4 grid gap-8  mb-16'>
+					<div className="grid grid-cols-3  place-items-center gap-2 ">
 						<div className=''>
 							<Image src={mock2} alt='Ad Designs' />
 						</div>
