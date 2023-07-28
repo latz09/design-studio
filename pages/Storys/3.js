@@ -13,7 +13,7 @@ const Story3 = () => {
             <div className="relative z-10 bg-black h-screen flex flex-col justify-between">
                 {/* Your content goes here */}
                 <span></span>
-                <Image src={logo} alt='Ad Designs' className="opacity-30" /> 
+                <Image src={logo} alt='Ad Designs' className="opacity-80" /> 
                 <span></span>  
             </div>
         </div>
