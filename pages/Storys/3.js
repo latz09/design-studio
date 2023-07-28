@@ -10,7 +10,7 @@ const Story3 = () => {
                 alt='Japanese Gardening' 
                 className="absolute z-0 w-full h-full object-cover"
             />
-            <div className="relative z-10 bg-blue-700/60 h-screen flex flex-col justify-between">
+            <div className="relative z-10 bg-black/10 h-screen flex flex-col justify-between">
                 {/* Your content goes here */}
                 <span></span>
                 <span></span>  
