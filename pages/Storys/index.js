@@ -11,6 +11,9 @@ const Storys = () => {
 		{
 			Link: '/Storys/3',
 		},
+		{
+			Link: '/Storys/4',
+		},
 	];
 	return (
 		<div className=' h-screen bg-blackTwo grid place-items-center bg-black text-white'>
