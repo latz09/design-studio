@@ -1,6 +1,6 @@
 // import video from '../../public/videos/japanese-gardening.gif';
 import Image from 'next/image';
-import logo from '../../public/images/logos/white-logo-no-bg.png';
+import logo from '../../public/images/logos/White-logo-no-bg.png';
 
 const Story3 = () => {
     return (
