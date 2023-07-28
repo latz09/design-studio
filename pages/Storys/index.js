@@ -8,6 +8,9 @@ const Storys = () => {
 		{
 			Link: '/Storys/2',
 		},
+		{
+			Link: '/Storys/3',
+		},
 	];
 	return (
 		<div className=' h-screen bg-blackTwo grid place-items-center bg-black text-white'>
