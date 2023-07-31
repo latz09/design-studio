@@ -12,11 +12,11 @@ const AdOne = () => {
 					<div className='mt-16 ml-4 scale-y-150 font-semibold tracking-wider text-5xl w-3/4'>
 						Need a website?
 					</div>
-					<div className='mt-12 ml-4 scale-y-150 text-xl w-2/3'>
+					<div className='mt-10 ml-4 scale-y-150 text-xl w-2/3'>
 						Stand Out From The Crowd With A Custom Website
 					</div>
 				</div>
-				<div className='w-3/4  place-self-end mb-8 mt-4'>
+				<div className='w-3/4  place-self-end mb-3 mt-2'>
 					<Image src={mock} alt='Ad Designs' className='   mx-auto ' />
 				</div>
 				<div className='flex  justify-between bg-[#00454C] items-center p-3'>
