@@ -13,7 +13,7 @@ const AdOne = () => {
 						Need a website?
 					</div>
 					<div className='mt-16 ml-4 scale-y-150 text-xl w-2/3'>
-						Stand Out From The Crowd With A Custom Website
+						Stand Out From The Crowd With A Custom Website that Works as Hard as You Do
 					</div>
 				</div>
 				<div className='w-2/3  place-self-end mb-8'>
