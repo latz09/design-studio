@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import logo from '../../public/images/logos/White-logo-no-bg.png';
+import mock from '../../public/images/mockups/Final/phones.png';
 
 const AdOne = () => {
 	return (
@@ -15,13 +16,14 @@ const AdOne = () => {
 						Latz Web Design is your best option
 					</div>
 				</div>
-				<div className="flex flex-col justify-between">
-					<div className='w-1/5 mx-auto my-6 '>
-						<Image src={logo} alt='Ad Designs' className='   mx-auto' />
+				<div className='w-2/3 place-self-end'>
+					<Image src={mock} alt='Ad Designs' className='   mx-auto w-2/3' />
+				</div>
+				<div className='flex  justify-between bg-[#00454C] items-center p-3'>
+					<div className='w-1/4'>
+						<Image src={logo} alt='Ad Designs' className='   mx-auto w-2/3' />
 					</div>
-                    <div className="bg-[#00454C] p-3 text-end">
-                        LatzWebDesign.com
-                    </div>
+					<div className=''>LatzWebDesign.com</div>
 				</div>
 			</div>
 		</div>
