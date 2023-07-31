@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import logo from '../../public/images/logos/White-logo-no-bg.png';
-import mock from '../../public/images/mockups/Final/phones.png';
+import mock from '../../public/images/mockups/five-screens-with-logo.png';
 
 const AdOne = () => {
 	return (
@@ -16,8 +16,8 @@ const AdOne = () => {
 						Stand Out From The Crowd With A Custom Website
 					</div>
 				</div>
-				<div className='w-2/3  place-self-end mb-8 mt-4'>
-					<Image src={mock} alt='Ad Designs' className='   mx-auto w-2/3' />
+				<div className='w-3/4  place-self-end mb-8 mt-4'>
+					<Image src={mock} alt='Ad Designs' className='   mx-auto ' />
 				</div>
 				<div className='flex  justify-between bg-[#00454C] items-center p-3'>
 					<div className='w-1/4'>
