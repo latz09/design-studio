@@ -13,10 +13,10 @@ const AdOne = () => {
 						Need a website?
 					</div>
 					<div className='mt-16 ml-4 scale-y-150 text-xl w-2/3'>
-						Latz Web Design is your best option
+						Stand Out From The Crowd With A Custom Website
 					</div>
 				</div>
-				<div className='w-2/3 place-self-end'>
+				<div className='w-2/3  place-self-end mb-8'>
 					<Image src={mock} alt='Ad Designs' className='   mx-auto w-2/3' />
 				</div>
 				<div className='flex  justify-between bg-[#00454C] items-center p-3'>
