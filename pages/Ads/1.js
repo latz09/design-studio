@@ -16,7 +16,7 @@ const AdOne = () => {
 						Stand Out From The Crowd With A Custom Website
 					</div>
 				</div>
-				<div className='w-3/4  place-self-end mb-3 mt-2'>
+				<div className='w-3/4 mx-auto   mb-3 mt-2'>
 					<Image src={mock} alt='Ad Designs' className='   mx-auto ' />
 				</div>
 				<div className='flex  justify-between bg-[#00454C] items-center p-3'>
