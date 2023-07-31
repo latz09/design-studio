@@ -7,6 +7,10 @@ export default function Home() {
 			studio: 'Storys',
 			link: '/Storys',
 		},
+		{
+			studio: 'ads',
+			link: '/Ads',
+		},
 	];
 
 	return (
@@ -14,7 +18,7 @@ export default function Home() {
 			<div className='grid gap-4'>
 				{pages.map((page, index) => {
 					return (
-						<Link href={page.link} key={index} className='p-4 bg-white text-2xl font-semibold rounded-sm text-black/70 hover:text-white hover:bg-white/50 hover:scale-90 transition duration-700 '>
+						<Link href={page.link} key={index} className='p-4 bg-white text-2xl font-semibold rounded-sm text-black/70 hover:text-white hover:bg-white/50 hover:scale-90 transition duration-700 text-center'>
 							{page.studio}
 						</Link>
 					);
