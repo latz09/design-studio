@@ -11,6 +11,10 @@ export default function Home() {
 			studio: 'ads',
 			link: '/Ads',
 		},
+		{
+			studio: 'Before and Afters',
+			link: '/before-and-afters',
+		},
 	];
 
 	return (
