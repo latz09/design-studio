@@ -21,8 +21,9 @@ export default AfterOne;
 const Navbar = () => {
 	return (
 		<div className='flex items-center justify-between px-4 py-3 text-[#2B7EED] '>
-			<div>
+			<div className="flex items-center gap-2">
 				<BsFillXDiamondFill className='w-8 h-8' />
+				<span className="font-semibold font-questrial">Happy Homes Cleaning</span>
 			</div>
 			<div>
 				<AiOutlineMenu className='w-8 h-8 ' />
