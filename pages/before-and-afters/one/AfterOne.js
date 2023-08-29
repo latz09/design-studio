@@ -61,7 +61,7 @@ const Hero = () => {
 
 const ShortAbout = () => {
 	return (
-		<div className='mx-4 mt-6 py-4  text-cente'>
+		<div className='mx-2 mt-6 py-4  text-cente'>
 			<h3 className='text-2xl font-semibold text-[#011229]  text-center font-mulish mb-8'>
 				How it works?
 			</h3>
