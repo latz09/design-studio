@@ -65,7 +65,7 @@ const ShortAbout = () => {
 			<h3 className='text-2xl font-semibold text-[#011229]  text-center font-mulish mb-8'>
 				How it works?
 			</h3>
-			<div className='flex items-center justify-evenly gap-4'>
+			<div className='flex items-center justify-evenly gap-2'>
 				<div className='grid gap-4 place-items-center'>
 					<span className='text-4xl text-[#2B7EED]'>
 						<BsHouseCheck />
