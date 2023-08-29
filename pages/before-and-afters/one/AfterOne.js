@@ -48,7 +48,7 @@ const Hero = () => {
 						<h2 className='text-5xl '>Come Home Happy</h2>
 					</div>
 					<p className='font-mulish text-center'>
-						{`From dusty corners to sunny windows, we're all about that glow-up!`}
+						{`From dusty corners to sunny windows, we are all about that glow`}
 					</p>
 					<button className='bg-[#2B7EED] shadow-lg tracking-wider   text-xl mt-6 px-6 py-2 rounded-sm place-self-center w-1/2'>
 						Book a Cleaning
