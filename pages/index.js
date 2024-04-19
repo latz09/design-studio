@@ -9,7 +9,7 @@ const ShuffleHero = () => {
           Better every day
         </span>
         <h3 className="text-4xl md:text-6xl font-semibold">
-          Sweet JuanJo's
+          {`Sweet JuanJo's`}
         </h3>
         <p className="text-base md:text-lg text-slate-700 my-4 md:my-6">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam nobis in
